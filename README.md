@@ -1,6 +1,6 @@
-# mix-api-vuej
+# mix-api-vuejs
 
-Exemple of few fun API project.
+Exemple of few fun API projects.
 
 * Chart with chart.js
 * Palladium course with chart.js
